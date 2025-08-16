@@ -1,5 +1,3 @@
-# WEB_EXP_5-PART-2-
-
 # 💱 Currency Converter
 
 A **simple and responsive currency converter** built with **HTML, CSS, and JavaScript**.  
